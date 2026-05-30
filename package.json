@@ -1,0 +1,20 @@
+{
+  "name": "zkid-rep",
+  "version": "1.0.0",
+  "description": "ZK-Identity Reputation Protocol — portable, private, cross-chain reputation",
+  "scripts": {
+    "compile": "npx hardhat compile",
+    "demo": "npx hardhat run scripts/demo.js",
+    "deploy": "npx hardhat run scripts/deploy.js --network base_sepolia",
+    "test": "npx hardhat test"
+  },
+  "keywords": ["web3", "zkp", "reputation", "identity", "cross-chain"],
+  "author": "Souravjoy7",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-ethers": "^4.0.12",
+    "ethers": "^6.16.0",
+    "hardhat": "^3.7.0"
+  }
+}
