@@ -6,12 +6,12 @@ Your reputation on Uniswap, Aave, OpenSea is trapped in silos. zkID-Rep fixes th
 
 ## On-Chain Proof (Linea Sepolia — ZK-Rollup)
 
-| Contract | Address |
-|----------|---------|
-| **zkIDRep** (main) | [`0xd57F10CF1f9f49ce0482B5c988A54b549964E611`](https://sepolia.lineascan.build/address/0xd57F10CF1f9f49ce0482B5c988A54b549964E611) |
-| IdentityRegistry | [`0x46f2cb3BF5730CE7B3796b0E64f1C3Bb15B6A79C`](https://sepolia.lineascan.build/address/0x46f2cb3BF5730CE7B3796b0E64f1C3Bb15B6A79C) |
-| ReputationOracle | [`0x3f8d121a69176C98385C67f9A0a33dE3b0aeBFa7`](https://sepolia.lineascan.build/address/0x3f8d121a69176C98385C67f9A0a33dE3b0aeBFa7) |
-| Groth16Verifier | [`0x1d6E057524aaCDE843BDC3F97257a11C2CdaA234`](https://sepolia.lineascan.build/address/0x1d6E057524aaCDE843BDC3F97257a11C2CdaA234) |
+| Contract | Address | Tx Hash |
+|----------|---------|---------|
+| **zkIDRep** (main) | [`0xd57F10CF1f9f49ce0482B5c988A54b549964E611`](https://sepolia.lineascan.build/address/0xd57F10CF1f9f49ce0482B5c988A54b549964E611) | Verified on [Lineascan](https://sepolia.lineascan.build/address/0xd57F10CF1f9f49ce0482B5c988A54b549964E611) |
+| IdentityRegistry | [`0x46f2cb3BF5730CE7B3796b0E64f1C3Bb15B6A79C`](https://sepolia.lineascan.build/address/0x46f2cb3BF5730CE7B3796b0E64f1C3Bb15B6A79C) | Verified on [Lineascan](https://sepolia.lineascan.build/address/0x46f2cb3BF5730CE7B3796b0E64f1C3Bb15B6A79C) |
+| ReputationOracle | [`0x3f8d121a69176C98385C67f9A0a33dE3b0aeBFa7`](https://sepolia.lineascan.build/address/0x3f8d121a69176C98385C67f9A0a33dE3b0aeBFa7) | Verified on [Lineascan](https://sepolia.lineascan.build/address/0x3f8d121a69176C98385C67f9A0a33dE3b0aeBFa7) |
+| Groth16Verifier | [`0x1d6E057524aaCDE843BDC3F97257a11C2CdaA234`](https://sepolia.lineascan.build/address/0x1d6E057524aaCDE843BDC3F97257a11C2CdaA234) | Verified on [Lineascan](https://sepolia.lineascan.build/address/0x1d6E057524aaCDE843BDC3F97257a11C2CdaA234) |
 
 - **Network**: Linea Sepolia (ZK-Rollup, chainId: 59141)
 - **Deployer**: [`0x7F75bfAfeD5c96584774c7F2Bc33F3bF887BC739`](https://sepolia.lineascan.build/address/0x7F75bfAfeD5c96584774c7F2Bc33F3bF887BC739)
